@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -58,6 +46,18 @@
       "position": {
         "lat": "24.335326446493152",
         "lng": "88.55419563532108"
+      }
+    },
+    {
+      "id": "42e6",
+      "cityName": "Beani Bazar",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-09-08T02:29:47.240Z",
+      "notes": "Memorable place in my life.",
+      "position": {
+        "lat": "24.79869906314356",
+        "lng": "92.19726562500001"
       }
     }
   ]
