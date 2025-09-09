@@ -61,15 +61,15 @@
       }
     },
     {
-      "id": "ebac",
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-09-08T05:50:03.968Z",
-      "notes": "Madrid city okayy",
+      "id": "292d",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-09-08T06:25:17.183Z",
+      "notes": "",
       "position": {
-        "lat": "40.383421720821495",
-        "lng": "-3.6431759116658595"
+        "lat": "39.5108874547695",
+        "lng": "32.95898437500001"
       }
     }
   ]
